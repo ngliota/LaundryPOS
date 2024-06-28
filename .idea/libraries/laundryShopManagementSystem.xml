@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="laundryShopManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/laundryShopManagementSystem/dist/laundryShopManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

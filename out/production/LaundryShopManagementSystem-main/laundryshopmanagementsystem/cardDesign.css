@@ -1,0 +1,23 @@
+/*
+    Created on : 12 4 2024, 12:24:58 PM
+    Author     : Agung YZS and Ryan A
+*/
+
+.card{
+    -fx-background-color: #fff;
+    -fx-background-radius: 5px;
+}
+
+.card:hover{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 8,0,0,0);
+}
+
+.shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 4,0,0,0);
+}
+
+.btn{
+    -fx-background-color: linear-gradient(to bottom right, #4694bb, #2a5178);
+    -fx-text-fill: #fff;
+    -fx-font-family: Arial;
+}
